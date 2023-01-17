@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/gMj6B7M/github-header-image.png)]<img align="right" alt="Coding" width="400" src="https://i.ibb.co/tbyzvZ7/daftpunktocat-thomas.gif">
+[![MasterHead](https://i.ibb.co/gMj6B7M/github-header-image.png)]
+![MasterHead](<img align="right" alt="Coding" width="400" src="https://i.ibb.co/tbyzvZ7/daftpunktocat-thomas.gif">)
 <h1 align="left">Hi 👋, Welcome to My Github</h1>
 <h3 align="left">A Passionate FrontEnd Developer From Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
