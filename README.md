@@ -1,7 +1,7 @@
 [![MasterHead](https://ibb.co/d0W7zc0)]
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul607&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul607" /> </p>
 
