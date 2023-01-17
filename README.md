@@ -1,6 +1,6 @@
-[![MasterHead](https://i.ibb.co/gMj6B7M/github-header-image.png)]<img align="left" alt="Coding" width="400" src="https://i.ibb.co/tbyzvZ7/daftpunktocat-thomas.gif">
-<h1 align="right">Hi 👋, Welcome to My Github</h1>
-<h3 align="right">A Passionate FrontEnd Developer From Bangladesh</h3>
+[![MasterHead](https://i.ibb.co/gMj6B7M/github-header-image.png)]<img align="right" alt="Coding" width="400" src="https://i.ibb.co/tbyzvZ7/daftpunktocat-thomas.gif">
+<h1 align="left">Hi 👋, Welcome to My Github</h1>
+<h3 align="left">A Passionate FrontEnd Developer From Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul607&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul607" /> </p>
