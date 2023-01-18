@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co/9pNvBBx/github-header-image-4.png)
 <img align="center" alt="Coding" width="100%" src="https://i.ibb.co/9pNvBBx/github-header-image-4.png">
 <h1 align="left">Hi 👋, Welcome to My Github</h1>
 <h3 align="left">A Passionate FrontEnd Developer From Bangladesh</h3>
